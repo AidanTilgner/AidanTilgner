@@ -68,7 +68,7 @@ Lately I've been more interested in open source, and making software that other 
     <tr>
       <td>Assistant Framework</td>
       <td><a href="https://github.com/QuasarBrains">QuasarBrains</a></td>
-      <td>Owner</td>
+      <td>Maintainer</td>
       <td>An extensible framework for building out digital assistants based on large language models</td>
       <td><a href="https://github.com/QuasarBrains/Assistant">repo</a></td>
     </tr>
