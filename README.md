@@ -44,10 +44,10 @@ I build stuff, and I have a lot of fun doing it. You can learn more on [my websi
     <td><a href="https://github.com/AidanTilgner/SlackGPT">repo</a></td>
   </tr>
   <tr>
-    <td>LiveSearch</td>
-    <td>A voice based note taker that listens to your conversations (only when you want tho) and takes notes or searches for context</td>
+    <td>Simple Vector Store</td>
+    <td>A simple python tool which leverages [sqlite-vss](https://github.com/asg017/sqlite-vss) and allows you to vectorize directories and perform queries.</td>
     <td>n/a</td>
-    <td><a href="https://github.com/AidanTilgner/LiveSearch">repo</a></td>
+    <td><a href="https://github.com/AidanTilgner/Simple-Vector-Store">repo</a></td>
   </tr>
 </table>
 
@@ -80,18 +80,18 @@ Lately I've been more interested in open source, and making software that other 
       <td><a href="https://github.com/FlowiseAI/Flowise">repo</a></td>
     </tr>
     <tr>
+      <td>JuniorGPT</td>
+      <td>Just me</td>
+      <td>Maintainer</td>
+      <td>An autonomous software developer which is designed to be about as capable as a junior developer</td>
+      <td><a href="https://github.com/QuasarBrains/Developer">repo</a></td>
+    </tr>
+    <tr>
       <td>Experiments and Research</td>
       <td>Just me</td>
       <td>Maintainer</td>
       <td>Some experiments and research that I've done or collected which help me understand things or build better things</td>
       <td><a href="https://github.com/AidanTilgner/Experiments-and-Research">repo</a></td>
-    </tr>
-    <tr>
-      <td>OPMS</td>
-      <td>Just me</td>
-      <td>Maintainer</td>
-      <td>A personal suite of utilities such as an email REST api and knowledge base to manage your personal stuff</td>
-      <td><a href="https://github.com/AidanTilgner/Onyx-Personal-Management-Dashboard">repo</a></td>
     </tr>
   </tbody>
 </table>
