@@ -1,5 +1,7 @@
+I write about software over on Substack, at [Software and Synapses](https://softwareandsynapses.substack.com/).
+
 ## Hey there! 👋
-You there! Yeah you! 👋
+You there! Yeah you!
 
 I hope you're having a great day!
 
