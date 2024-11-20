@@ -1,17 +1,17 @@
 I write about software over on Substack, at [Software and Synapses](https://softwareandsynapses.substack.com/).
 
 ## Hey there! 👋
-You there! Yeah you!
+You there!
 
 I hope you're having a great day!
 
-In case you're not, click this button:
+In case you're not, here's a great cat video:
 
 <a href="https://youtu.be/SLEBlJ9DTAI">
   <img src="https://www.aidantilgner.dev/assets/images/github/fun-stuff/happiness-button.svg" />
 </a>
 
-## Me I guess
+## About me
 I build stuff, and I have a lot of fun doing it. You can learn more on [my website](https://www.aidantilgner.dev/projects) if you want. Some recent things I've built are:
 
 <table>
